@@ -1,0 +1,2 @@
+# configservers
+练习springcloud的config组件
